@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW",            
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Program Files/boost/boost_1_76_0"
+            ],
+            "defines": [],
+            "compilerPath": "C:/MinGW/mingw64/bin",
+            "cStandard": "gnu17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "C:/Program Files/boost/boost_1_76_0"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
