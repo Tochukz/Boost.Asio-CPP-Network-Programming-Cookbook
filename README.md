@@ -32,7 +32,8 @@ To run the build go to `Terminal > Run Build Task` or `Ctrl+Shift+b`
 
 ### Boost C++ Library
 [Boost Getting Started](https://www.boost.org/doc/libs/1_76_0/more/getting_started/index.html)  
-[Boost Libraries A-Z](https://www.boost.org/doc/libs/1_76_0/libs/libraries.htm#Alphabetically)
+[Boost Libraries A-Z](https://www.boost.org/doc/libs/1_76_0/libs/libraries.htm#Alphabetically)  
+
 __Installation__  
 * Download and unpack the from boost_1_76_0.zip from [boost.org/users/history/version_1_76_0.html](https://www.boost.org/users/history/version_1_76_0.html)
 * Move the unpacked file to `C:\Program Files\boost\boost_1_76_0`  
